@@ -5,9 +5,7 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-/**
- * 从这里开始
- */
+
 public class BootStrap {
     public static Logger logger = Logger.getLogger(BootStrap.class);
 
